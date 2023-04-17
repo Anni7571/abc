@@ -1,8 +1,7 @@
-Hello everyone my name is aniruddh singh
+import React from "react";
 
-Today a standup comedian named Samay Raina came in our college Harcourt Butler Technical University.
+const namaste = () => {
+    return <div></div>;
+};
 
-// git pull request.
-
-
-hey whatsapp
+export default namaste;
